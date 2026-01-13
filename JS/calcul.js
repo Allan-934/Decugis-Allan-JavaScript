@@ -59,4 +59,5 @@ function reussite (bonne, coup){
     progression.val(bonne/coup*100)
     document.querySelector("#preussite").innerHTML = "Réussite : "+bonne+" bonne(s) réponse(s) sur" +coup
 }
+// git moddification
 
